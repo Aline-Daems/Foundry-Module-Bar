@@ -1,6 +1,6 @@
 {
-    "name": "side-bar",
-    "title": "Module Side Bar",
+    "name": "my-module-bar",
+    "title": "My Module Bar",
     "description": "Ajoute une barre du côté de la Force à la fiche ",
     "version": "1.0.0",
     "minimumCoreVersion": "0.8.0",
