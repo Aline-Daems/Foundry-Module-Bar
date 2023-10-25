@@ -1,5 +1,5 @@
 {
-    "name": "my-module-bar",
+    "id": "my-module-bar",
     "title": "My Module Bar",
     "description": "Ajoute une barre du côté de la Force à la fiche ",
     "version": "1.0.0",
@@ -11,5 +11,7 @@
     "styles": [
       "module.css"
     ]
+
+    
   }
   
